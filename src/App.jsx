@@ -1,9 +1,7 @@
-//import { useState } from 'react'
 
 import ToDoApp from './components/ToDoApp.jsx'
 
 function App() {
-  //const [count, setCount] = useState(2000)
 
   return (
     <>
